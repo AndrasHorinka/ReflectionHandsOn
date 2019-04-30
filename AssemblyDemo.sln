@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyDemo", "AssemblyDemo\AssemblyDemo.csproj", "{EA5BEAF7-2895-4C7D-9315-292AA58BABFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyAttrDemo", "AssemblyAttrDemo\AssemblyAttrDemo.csproj", "{90A0FCB1-7D5F-4A3A-8CA1-62F101120406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA5BEAF7-2895-4C7D-9315-292AA58BABFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5BEAF7-2895-4C7D-9315-292AA58BABFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5BEAF7-2895-4C7D-9315-292AA58BABFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5BEAF7-2895-4C7D-9315-292AA58BABFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90A0FCB1-7D5F-4A3A-8CA1-62F101120406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A0FCB1-7D5F-4A3A-8CA1-62F101120406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A0FCB1-7D5F-4A3A-8CA1-62F101120406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A0FCB1-7D5F-4A3A-8CA1-62F101120406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
