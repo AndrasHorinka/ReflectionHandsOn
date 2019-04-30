@@ -1,0 +1,6 @@
+E:\OneDrive\Codecool\VisualStudio\repos\SI5\Reflection\AssemblyDemo\AssemblyAttrDemo\bin\Debug\AssemblyAttrDemo.exe
+E:\OneDrive\Codecool\VisualStudio\repos\SI5\Reflection\AssemblyDemo\AssemblyAttrDemo\bin\Debug\AssemblyAttrDemo.pdb
+E:\OneDrive\Codecool\VisualStudio\repos\SI5\Reflection\AssemblyDemo\AssemblyAttrDemo\obj\Debug\AssemblyAttrDemo.csprojAssemblyReference.cache
+E:\OneDrive\Codecool\VisualStudio\repos\SI5\Reflection\AssemblyDemo\AssemblyAttrDemo\obj\Debug\AssemblyAttrDemo.csproj.CoreCompileInputs.cache
+E:\OneDrive\Codecool\VisualStudio\repos\SI5\Reflection\AssemblyDemo\AssemblyAttrDemo\obj\Debug\AssemblyAttrDemo.exe
+E:\OneDrive\Codecool\VisualStudio\repos\SI5\Reflection\AssemblyDemo\AssemblyAttrDemo\obj\Debug\AssemblyAttrDemo.pdb
